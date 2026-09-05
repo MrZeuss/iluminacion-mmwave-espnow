@@ -1,0 +1,3 @@
+# Mejoras y decisiones
+
+Los sensores envían presencia y batería por ESP-NOW. Arquitectura distribuida: sensor puede avisar a luz y maestro. Incluye modo manual y vacaciones.
